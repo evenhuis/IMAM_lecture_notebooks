@@ -1,1 +1,3 @@
-# IMAM_lecture_notebooks
+# IMAM lecture notebooks
+
+Notebooks for lectures
